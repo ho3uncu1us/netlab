@@ -1,0 +1,7 @@
+.venv/
+clab-*/
+reports/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.bak
